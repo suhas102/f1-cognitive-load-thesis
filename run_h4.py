@@ -1,34 +1,4 @@
-"""
-Standalone driver for Objective 4 / H4: confound-aware behavioural reports
-for any driver + race, driven by a CSV of (driver, location, year) queries.
 
-This script reproduces exactly what the "Thesis1.ipynb" Colab notebook does,
-end to end, so it can be run outside Colab (your own machine, a server,
-etc.) as long as you have network access to the OpenF1 API
-(https://api.openf1.org) -- NOTE: OpenF1 is NOT reachable from Anthropic's
-cloud sandbox that produced this package, so this has only been verified to
-run inside Colab; if your machine also can't reach api.openf1.org, run it
-in Colab instead (upload these files, or just use the existing notebook).
-
-Usage
------
-    pip install -r requirements.txt
-    python run_h4.py --input driver_queries.csv --output driver_reports.csv \
-        --years 2023 2024 2025 --cache-dir ./data/raw
-
-`driver_queries.csv` needs exactly 3 columns: driver,location,year
-    driver   -- 3-letter code, e.g. HAM, VER, NOR (case-insensitive)
-    location -- venue city (e.g. "Miami", "Suzuka") or, for a country that
-                hosted only one race that season, the country name
-                (e.g. "Brazil", "Japan")
-    year     -- 2023, 2024, or 2025 (OpenF1 has no earlier data)
-
-Fetching the full calendar (~70 races) takes roughly 45-75 minutes the
-first time; after that, results are cached as parquet under --cache-dir and
-reruns are near-instant. Race discovery, fetching, and rate-limit retries
-all match the notebook's logic exactly (including the pit/race_control
-404 workaround and the OpenF1 429 backoff).
-"""
 from __future__ import annotations
 
 import argparse
