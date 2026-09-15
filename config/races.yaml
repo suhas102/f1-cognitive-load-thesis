@@ -1,0 +1,358 @@
+races:
+- year: 2023
+  round: United States
+  session: R
+  label: austin_2023
+  location: Austin
+- year: 2023
+  round: Azerbaijan
+  session: R
+  label: baku_2023
+  location: Baku
+- year: 2023
+  round: Spain
+  session: R
+  label: barcelona_2023
+  location: Barcelona
+- year: 2023
+  round: Hungary
+  session: R
+  label: budapest_2023
+  location: Budapest
+- year: 2023
+  round: Italy
+  session: R
+  label: imola_2023
+  location: Imola
+- year: 2023
+  round: Saudi Arabia
+  session: R
+  label: jeddah_2023
+  location: Jeddah
+- year: 2023
+  round: United States
+  session: R
+  label: las_vegas_2023
+  location: Las Vegas
+- year: 2023
+  round: Qatar
+  session: R
+  label: lusail_2023
+  location: Lusail
+- year: 2023
+  round: Singapore
+  session: R
+  label: marina_bay_2023
+  location: Marina Bay
+- year: 2023
+  round: Australia
+  session: R
+  label: melbourne_2023
+  location: Melbourne
+- year: 2023
+  round: Mexico
+  session: R
+  label: mexico_city_2023
+  location: Mexico City
+- year: 2023
+  round: United States
+  session: R
+  label: miami_2023
+  location: Miami
+- year: 2023
+  round: Monaco
+  session: R
+  label: monaco_2023
+  location: Monaco
+- year: 2023
+  round: Canada
+  session: R
+  label: montreal_2023
+  location: "Montr\xE9al"
+- year: 2023
+  round: Italy
+  session: R
+  label: monza_2023
+  location: Monza
+- year: 2023
+  round: Bahrain
+  session: R
+  label: sakhir_2023
+  location: Sakhir
+- year: 2023
+  round: Brazil
+  session: R
+  label: sao_paulo_2023
+  location: "S\xE3o Paulo"
+- year: 2023
+  round: United Kingdom
+  session: R
+  label: silverstone_2023
+  location: Silverstone
+- year: 2023
+  round: Belgium
+  session: R
+  label: spa_francorchamps_2023
+  location: Spa-Francorchamps
+- year: 2023
+  round: Austria
+  session: R
+  label: spielberg_2023
+  location: Spielberg
+- year: 2023
+  round: Japan
+  session: R
+  label: suzuka_2023
+  location: Suzuka
+- year: 2023
+  round: United Arab Emirates
+  session: R
+  label: yas_island_2023
+  location: Yas Island
+- year: 2023
+  round: Netherlands
+  session: R
+  label: zandvoort_2023
+  location: Zandvoort
+- year: 2024
+  round: United States
+  session: R
+  label: austin_2024
+  location: Austin
+- year: 2024
+  round: Azerbaijan
+  session: R
+  label: baku_2024
+  location: Baku
+- year: 2024
+  round: Spain
+  session: R
+  label: barcelona_2024
+  location: Barcelona
+- year: 2024
+  round: Hungary
+  session: R
+  label: budapest_2024
+  location: Budapest
+- year: 2024
+  round: Italy
+  session: R
+  label: imola_2024
+  location: Imola
+- year: 2024
+  round: Saudi Arabia
+  session: R
+  label: jeddah_2024
+  location: Jeddah
+- year: 2024
+  round: United States
+  session: R
+  label: las_vegas_2024
+  location: Las Vegas
+- year: 2024
+  round: Qatar
+  session: R
+  label: lusail_2024
+  location: Lusail
+- year: 2024
+  round: Singapore
+  session: R
+  label: marina_bay_2024
+  location: Marina Bay
+- year: 2024
+  round: Australia
+  session: R
+  label: melbourne_2024
+  location: Melbourne
+- year: 2024
+  round: Mexico
+  session: R
+  label: mexico_city_2024
+  location: Mexico City
+- year: 2024
+  round: United States
+  session: R
+  label: miami_2024
+  location: Miami
+- year: 2024
+  round: Monaco
+  session: R
+  label: monaco_2024
+  location: Monaco
+- year: 2024
+  round: Canada
+  session: R
+  label: montreal_2024
+  location: "Montr\xE9al"
+- year: 2024
+  round: Italy
+  session: R
+  label: monza_2024
+  location: Monza
+- year: 2024
+  round: Bahrain
+  session: R
+  label: sakhir_2024
+  location: Sakhir
+- year: 2024
+  round: Brazil
+  session: R
+  label: sao_paulo_2024
+  location: "S\xE3o Paulo"
+- year: 2024
+  round: China
+  session: R
+  label: shanghai_2024
+  location: Shanghai
+- year: 2024
+  round: United Kingdom
+  session: R
+  label: silverstone_2024
+  location: Silverstone
+- year: 2024
+  round: Belgium
+  session: R
+  label: spa_francorchamps_2024
+  location: Spa-Francorchamps
+- year: 2024
+  round: Austria
+  session: R
+  label: spielberg_2024
+  location: Spielberg
+- year: 2024
+  round: Japan
+  session: R
+  label: suzuka_2024
+  location: Suzuka
+- year: 2024
+  round: United Arab Emirates
+  session: R
+  label: yas_island_2024
+  location: Yas Island
+- year: 2024
+  round: Netherlands
+  session: R
+  label: zandvoort_2024
+  location: Zandvoort
+- year: 2025
+  round: United States
+  session: R
+  label: austin_2025
+  location: Austin
+- year: 2025
+  round: Azerbaijan
+  session: R
+  label: baku_2025
+  location: Baku
+- year: 2025
+  round: Spain
+  session: R
+  label: barcelona_2025
+  location: Barcelona
+- year: 2025
+  round: Hungary
+  session: R
+  label: budapest_2025
+  location: Budapest
+- year: 2025
+  round: Italy
+  session: R
+  label: imola_2025
+  location: Imola
+- year: 2025
+  round: Saudi Arabia
+  session: R
+  label: jeddah_2025
+  location: Jeddah
+- year: 2025
+  round: United States
+  session: R
+  label: las_vegas_2025
+  location: Las Vegas
+- year: 2025
+  round: Qatar
+  session: R
+  label: lusail_2025
+  location: Lusail
+- year: 2025
+  round: Singapore
+  session: R
+  label: marina_bay_2025
+  location: Marina Bay
+- year: 2025
+  round: Australia
+  session: R
+  label: melbourne_2025
+  location: Melbourne
+- year: 2025
+  round: Mexico
+  session: R
+  label: mexico_city_2025
+  location: Mexico City
+- year: 2025
+  round: United States
+  session: R
+  label: miami_gardens_2025
+  location: Miami Gardens
+- year: 2025
+  round: Monaco
+  session: R
+  label: monaco_2025
+  location: Monaco
+- year: 2025
+  round: Canada
+  session: R
+  label: montreal_2025
+  location: "Montr\xE9al"
+- year: 2025
+  round: Italy
+  session: R
+  label: monza_2025
+  location: Monza
+- year: 2025
+  round: Bahrain
+  session: R
+  label: sakhir_2025
+  location: Sakhir
+- year: 2025
+  round: Brazil
+  session: R
+  label: sao_paulo_2025
+  location: "S\xE3o Paulo"
+- year: 2025
+  round: China
+  session: R
+  label: shanghai_2025
+  location: Shanghai
+- year: 2025
+  round: United Kingdom
+  session: R
+  label: silverstone_2025
+  location: Silverstone
+- year: 2025
+  round: Belgium
+  session: R
+  label: spa_francorchamps_2025
+  location: Spa-Francorchamps
+- year: 2025
+  round: Austria
+  session: R
+  label: spielberg_2025
+  location: Spielberg
+- year: 2025
+  round: Japan
+  session: R
+  label: suzuka_2025
+  location: Suzuka
+- year: 2025
+  round: United Arab Emirates
+  session: R
+  label: yas_island_2025
+  location: Yas Island
+- year: 2025
+  round: Netherlands
+  session: R
+  label: zandvoort_2025
+  location: Zandvoort
+drivers:
+  include: []

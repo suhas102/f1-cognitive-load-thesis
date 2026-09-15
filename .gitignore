@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Fetched/cached OpenF1 race data (regenerate by running run_h4.py / openf1_fetch)
+data/
+*.parquet
+
+# Generated reports
+driver_reports.csv
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
