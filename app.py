@@ -1,27 +1,3 @@
-"""
-H4 desktop interface: a small popup window with 3 fields (driver, location,
-year) -- type them in, click "Get report", and the confound-aware
-behavioural-load report for that driver/race appears in the window.
-
-This is just a friendlier front end for exactly the same H4 computation
-`run_h4.py` does -- same cached data, same fitted model, same report logic
-(f1_cognitive_load.report.BehaviouralLoadReportTool). Nothing about the
-underlying analysis changes; this only changes how you feed it a query and
-see the result.
-
-Usage
------
-    python app.py
-
-On first launch it does the one-time setup (discover races, load the
-cached parquet files, build the feature table, fit the model) -- this
-takes a minute or two. A "Loading model, please wait..." message is shown
-while that happens. After that, every query you type is answered
-instantly, with no re-fetching or re-fitting.
-
-Requires the same folder layout and requirements.txt as run_h4.py (this
-file expects to sit next to run_h4.py, using its same src/ package).
-"""
 from __future__ import annotations
 
 import sys
